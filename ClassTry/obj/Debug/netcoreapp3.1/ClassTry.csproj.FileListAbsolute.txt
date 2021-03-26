@@ -1,0 +1,13 @@
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.exe
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.deps.json
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.runtimeconfig.json
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.runtimeconfig.dev.json
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.dll
+C:\Users\emrah\source\repos\ClassTry\ClassTry\bin\Debug\netcoreapp3.1\ClassTry.pdb
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.csprojAssemblyReference.cache
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.AssemblyInfoInputs.cache
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.AssemblyInfo.cs
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.csproj.CoreCompileInputs.cache
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.dll
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.pdb
+C:\Users\emrah\source\repos\ClassTry\ClassTry\obj\Debug\netcoreapp3.1\ClassTry.genruntimeconfig.cache
